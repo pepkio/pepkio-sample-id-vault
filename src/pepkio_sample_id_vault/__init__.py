@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Pepkio Sample ID Vault Python Client."""
 
 from .client import PepkioClient

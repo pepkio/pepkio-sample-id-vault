@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Command-line interface for pepkio-sample-id-vault."""
 
 from __future__ import annotations
